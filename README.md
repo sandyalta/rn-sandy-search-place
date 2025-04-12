@@ -8,6 +8,7 @@ React Native Search Places Using Google Map API key by Sandy Tadete
 4. Search history functionality taht maintainable using async storage (redux too powerful for this)
 
 =ScreenShot=
+
 ![alt text](screenshot.png)
 
 =Basic following requirements=
